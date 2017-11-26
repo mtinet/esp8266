@@ -21,11 +21,10 @@
 - 보드를 선택 - NodeMCU 1.0(ESP-12E Module), ESP-12F는 ESP-12E모델의 성능 향상 모델이므로 함께 사용가능  
 - 포트를 선택 - 연결된 포트를 확인한 후 선택  
 - 아래 사진의 pinout을 확인한 후 스케치를 작성하고 업로드  
-
+![](https://github.com/mtinet/esp8266/blob/master/image/gizwits_pinout_67.jpg?raw=true)  
 
 ---
 ### 제품사진  
-![](https://github.com/mtinet/esp8266/blob/master/image/gizwits_pinout_67.jpg?raw=true)
-![](https://github.com/mtinet/esp8266/blob/master/image/gizwits-wifi-witty-esp8266-esp_1.jpg?raw=true)
-![](https://github.com/mtinet/esp8266/blob/master/image/gizwits_dimensions_24.jpg?raw=true)
-![](https://github.com/mtinet/esp8266/blob/master/image/gizwits_pinout_66.jpg?raw=true)
+![](https://github.com/mtinet/esp8266/blob/master/image/gizwits-wifi-witty-esp8266-esp_1.jpg?raw=true)  
+![](https://github.com/mtinet/esp8266/blob/master/image/gizwits_dimensions_24.jpg?raw=true)  
+![](https://github.com/mtinet/esp8266/blob/master/image/gizwits_pinout_66.jpg?raw=true)  
