@@ -1,4 +1,8 @@
 # esp8266
+
+---
+## 아래 내용은 ESP8266칩이 장착된 NodeMCU1.0보드에 대한 사용 설명입니다.
+
 ---
 ### 관련자료링크  
 - [ESP8266, NodeMCU](https://jpralves.net/post/2016/11/15/esp8266.html#.WhoEskpl8uU)  
